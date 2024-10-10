@@ -1,0 +1,31 @@
+body{
+    background-image: url("Asset/Naruto-Shippuden-PNG-Free-Download.png");
+    background-color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    text-decoration: underline black;
+    font-size: large;
+}
+
+h2{
+    text-align: center;
+    color: green;
+    text-decoration: underline;
+    font-size: medium;
+}
+
+h3{
+    text-align: center;
+    color: blue;
+    text-decoration: underline blueviolet;
+    font-size: medium;
+}
+
+p{
+    color: blue;
+    font-size: small;
+}
